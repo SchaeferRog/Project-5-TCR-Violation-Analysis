@@ -6,14 +6,6 @@ This project analyzes Total Coliform Rule (TCR) violations across the United Sta
 
 ---
 
-## Data Source
-| Dataset | Link |
-|---|---|
-| Safe Drinking Water Information System (SDWIS) | [EPA SDWIS Public Reports](https://sdwis.epa.gov/ords/sfdw_pub/r/sfdw/sdwis_fed_reports_public/1) |
-| EPA Water System Size Definitions | [EPA ECHO Dashboard Help](https://echo.epa.gov/help/drinking-water-qlik-dashboard-help) |
-
----
-
 ## Methods
 All analysis was completed in Python (Jupyter Notebook) using the following libraries:
 - **pandas** — data manipulation and cleaning
@@ -32,7 +24,6 @@ Raw SDWIS data was downloaded, cleaned, and compiled into a `.csv` file. One sta
 | `ENVRN-02-14_Project5_Report` | Technical report and executive summary |
 | `ENVRN-02-14_Project5_GanttChart` | Project timeline |
 | `ENVRN-02-14_Project5_TimeSheet` | Team time log |
-| `data/` | Cleaned SDWIS `.csv` files |
 
 ---
 
