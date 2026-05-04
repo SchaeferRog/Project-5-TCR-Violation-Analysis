@@ -24,6 +24,9 @@ Raw SDWIS data was downloaded, cleaned, and compiled into a `.csv` file. One sta
 | `ENVRN-02-14_Project5_Report` | Technical report and executive summary |
 | `ENVRN-02-14_Project5_GanttChart` | Project timeline |
 | `ENVRN-02-14_Project5_TimeSheet` | Team time log |
+| `ENVRN-02-14_Project5_FlowDiagram` | Flow Diagram | 
+| `ENVRN-02-14_Project5_SOW` | Scope of Work |
+
 
 ---
 
